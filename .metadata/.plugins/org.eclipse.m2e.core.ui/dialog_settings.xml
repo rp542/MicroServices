@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\prameshw\Documents\Microservices\eurekaclient"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\eurekaserverr"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\eurekaserverice"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\eurekaserver"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\eurekaservice (1)"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\eurekaservice"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\configclient"/>
+			<item value="C:\Users\prameshw\Documents\Microservices\configserver"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
